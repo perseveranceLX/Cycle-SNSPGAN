@@ -11,3 +11,6 @@ Python 3.7
 PyTorch 1.5
 
 CUDA 10.1
+
+# Train & Test
+Other modules will be updated after publication.
