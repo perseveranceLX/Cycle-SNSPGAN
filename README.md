@@ -6,9 +6,9 @@ by Yongzhen Wang, Xuefeng Yan, Donghai Guan, Mingqiang Wei, Yiping Chen, Xiao-Pi
 This implementation is written by Yongzhen Wang at Nanjing University of Aeronautics and Astronautics.
 
 # Prerequisites
-Python 3.5
+Python 3.7
 
-PyTorch 1.0
+PyTorch 1.5
 
 # Test
 Coming soon
