@@ -1,0 +1,1 @@
+Put haze-free images here
