@@ -23,7 +23,7 @@ class Discriminator(nn.Module):
             SNConv2d(256, 512, 3, 1, 1),
             # nn.InstanceNorm2d(512),
             nn.ReLU(inplace=True),
-            # state size 输出1 * 64 * 64
+            # state size output 1 * 64 * 64
             SNConv2d(512, 1, 3, 1, 1),
             nn.Sigmoid()
         )
