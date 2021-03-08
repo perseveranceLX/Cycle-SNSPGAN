@@ -10,5 +10,5 @@ Python 3.7
 
 PyTorch 1.5
 
-# Test
+# Train & Test
 Coming soon
